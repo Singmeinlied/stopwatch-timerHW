@@ -102,8 +102,10 @@
                     <connections>
                         <outlet property="hourLabel" destination="0ce-8u-7GG" id="gja-1U-EZY"/>
                         <outlet property="minuteLabel" destination="XR0-HK-FW8" id="2Gs-3q-XgD"/>
+                        <outlet property="pauseButton" destination="fru-ck-Eby" id="Gst-Zi-YX9"/>
                         <outlet property="playButton" destination="nXy-EP-nuN" id="P2E-gb-gfk"/>
                         <outlet property="secondLabel" destination="I6F-WX-SPx" id="sYC-wN-jN9"/>
+                        <outlet property="stopButton" destination="T7h-27-x6R" id="IA0-oq-sJp"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
